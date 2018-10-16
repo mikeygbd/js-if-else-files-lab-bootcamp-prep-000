@@ -1,5 +1,5 @@
 console.log("name")
-console.log("height")
-var index = require("./index.js")
 console.log(index.name)
+console.log("height")
 console.log(index.height)
+var index = require("./index.js")
